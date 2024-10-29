@@ -1,4 +1,4 @@
-# smart-contracts-move
+# Aptos smart contracts
 
 A repository of smart contracts packages written in `move` for `Aptos` blockchain (`core-move`). In the future this repository might also contain `move` packages for the `Sui` blockchain (`sui-move`).
 
